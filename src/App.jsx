@@ -7,7 +7,7 @@ const App = () => {
     <main
       className="w-full
     h-full
-    bg-gradient-to-r from-emerald-500 from-10% via-lightblue-500 via-purple-500 via-50% to-pink-500 to-90%
+    bg-gradient-to-r from-emerald-500 from-10% via-blue-400 via-purple-500 via-50% to-pink-500 to-90%
     background-animate flex items-center justify-center"
     >
       <div className="card w-[50rem] bg-white min-h-[80rem] mt-10 border-pink-700 border-solid">
